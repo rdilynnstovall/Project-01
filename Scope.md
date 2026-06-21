@@ -2,7 +2,7 @@
 The purpose of this is to create a personal introduction webpage and to demonstrate understanding of foundational HTML structures.  
 
 ## Description  
-The webpage will contain a description of me, including my name and field of study and areas of focus. The webpage will be structured with the semantic HTML tags <html>, <head>, <title>, <body>, <h1>, <p>, <ul>, <li>, and <a>.  
+The webpage will contain a description of me, including my name and field of study and areas of focus. The webpage will be structured with various semantic HTML tags.
 
 ## Desired Results  
 The desired results are: 
