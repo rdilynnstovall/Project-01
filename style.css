@@ -1,7 +1,18 @@
+body{
+    Background-Color : #c2c2bf}    
+h1{ 
+    Font-Family : 'Georgia', serif;
+    Font-Size : 28px:
+    Font Color : #9c9a95
+    margin : 6px}
+p{
+    Font-Family : "Helvetica", sans-serif;
+    Font-Size : 16px; 
+    Font Color : #555864
+    Margin : 6px}
 Div {
     Width : 100%;
     Height : 200px
     Background-Color : lightgray
     Border : 1px solid #ccc
-    Margin : 10px
-}
+    Margin : 8px}
