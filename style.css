@@ -3,13 +3,14 @@ body{
 h1{ 
     Font-Family : 'Georgia', serif;
     Font-Size : 28px;
-    Font Color : #9c9a95;
+    Color : #9c9a95;
     margin : 6px}
 p{
     Font-Family : "Helvetica", sans-serif;
     Font-Size : 16px; 
-    Font Color : #555864;
-    Margin : 6px}
+    Color : #555864;
+    Margin : 6px
+}
 Div {
     Width : 50%;
     Height : 200px;
